@@ -1,0 +1,38 @@
+/* this is currently outside of Dev control */
+
+@font-face {
+  font-family: "Rufus";
+  src: url("fonts/FSRufus.woff2") format("woff2"),
+    url("fonts/FSRufus.woff") format("woff"),
+    url("fonts/FSRufus.ttf") format("truetype");
+}
+
+/* 
+@font-face {
+  font-family: "RufusLight";
+  src: url("/styles/t4/responsive/fonts/FSRufus-Light.woff2") format("woff2"),
+    url("/styles/t4/responsive/fonts/FSRufus-Light.woff") format("woff"),
+    url("/styles/t4/responsive/fonts/FSRufus-Light.ttf") format("truetype");
+} */
+
+@font-face {
+  font-family: "RufusBold";
+  src: url("fonts/FSRufus-Bold.woff2") format("woff2"),
+    url("fonts/FSRufus-Bold.woff") format("woff"),
+    url("fonts/FSRufus-Bold.ttf") format("truetype");
+}
+
+.rufus {
+  font-family: Rufus;
+  font-weight: normal;
+}
+
+.rufus-light {
+  font-family: Rufus;
+  font-weight: normal;
+}
+
+.rufus-bold {
+  font-family: RufusBold;
+  font-weight: normal;
+}

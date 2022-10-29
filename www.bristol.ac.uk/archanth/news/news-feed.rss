@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+     version="2.0">
+
+<channel>
+	<title>University of Bristol - News</title>
+	<link>http://www.bristol.ac.uk/archanth/news/</link>
+	<description></description>
+	<language>en-gb</language>
+	<!-- pubDate></pubDate -->
+	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	<managingEditor></managingEditor>
+	<webMaster></webMaster>
+	<copyright>https://www.bristol.ac.uk/university/web/terms-conditions.html</copyright>
+	<ttl>60</ttl>
+	<image>
+		<title>University of Bristol</title>
+		<link>http://www.bristol.ac.uk/archanth/news/</link>
+		<url>http://www.bristol.ac.uk/images/rss.logo.gif</url>
+	</image>
+          
+	<item>
+	<title>New Book on Museums and Social Repair Published by Graeme Were
+</title>
+	<description></description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2022/book-launch---graeme-were.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2022/book-launch---graeme-were.html</guid>
+  	<category>Staff notices, Research; Faculty of Arts</category>
+	<pubDate>Tue, 11 Oct 2022 20:35:00 +0100</pubDate>
+        <keyword>archanth </keyword>
+</item>
+<item>
+	<title>PhD student Polly Bence researching the collections at Bristol Museum and Art Gallery</title>
+	<description></description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2022/polly-bence-research.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2022/polly-bence-research.html</guid>
+  	<category>Research, Postgraduate; Faculty of Arts</category>
+	<pubDate>Tue, 11 Oct 2022 20:00:00 +0100</pubDate>
+        <keyword>archanth </keyword>
+</item>
+<item>
+	<title>Neolithic culinary traditions uncovered</title>
+	<description></description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2022/neolithic-culinary-traditions-uncovered.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2022/neolithic-culinary-traditions-uncovered.html</guid>
+  	<category>Research; Faculty of Arts</category>
+	<pubDate>Thu, 08 Sep 2022 08:25:00 +0100</pubDate>
+        <keyword>archanth </keyword>
+</item>
+<item>
+	<title>Dan Brown wins Inspiring and Innovative Teaching Award &#8211; PGRs Who Teach</title>
+	<description></description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2022/dan-brown-wins-inspiring-and-innovative-teaching-award.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2022/dan-brown-wins-inspiring-and-innovative-teaching-award.html</guid>
+  	<category>Grants and Awards, Postgraduate; Faculty of Arts</category>
+	<pubDate>Tue, 21 Jun 2022 12:17:00 +0100</pubDate>
+        <keyword> </keyword>
+</item>
+<item>
+	<title> 
+
+Research technician in Archaeological Chemistry</title>
+	<description>We are recruiting a research technician in organic residue analysis &#8211; a 2.5 year position on the project &#8216;Roman Melting Pots: tracing food residues and cultural diversity in a frontier zone</description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2022/---research-technician-in-archaeological-chemistry.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2022/---research-technician-in-archaeological-chemistry.html</guid>
+  	<category>Research; Faculty of Arts</category>
+	<pubDate>Fri, 17 Jun 2022 11:06:00 +0100</pubDate>
+        <keyword>anthropology and archaeology  </keyword>
+</item>
+<item>
+	<title>Claire Gilmour Publishes Article on Moon Knight</title>
+	<description></description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2022/moon-knight--claire-gilmour.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2022/moon-knight--claire-gilmour.html</guid>
+  	<category>Publications; Faculty of Arts</category>
+	<pubDate>Wed, 18 May 2022 09:29:00 +0100</pubDate>
+        <keyword> </keyword>
+</item>
+<item>
+	<title>Excellent REF 2021 results for Anthropology and Archaeology</title>
+	<description></description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2022/ref-2021-.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2022/ref-2021-.html</guid>
+  	<category>Announcements; Faculty of Arts</category>
+	<pubDate>Thu, 12 May 2022 14:48:00 +0100</pubDate>
+        <keyword> </keyword>
+</item>
+<item>
+	<title>Monique Borgerhoff Mulder elected as an international member of the US National Academy of Sciences.</title>
+	<description>Monique Borgerhoff Mulder, Honorary Research Associate in the Department of Anthropology and Archaeology &#38; Max Planck Institute for Evolutionary Anthropology in Leipzig, has been elected as an international member of the US National Academy of Sciences.</description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2022/monique-borgerhoff-mulder.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2022/monique-borgerhoff-mulder.html</guid>
+  	<category>Announcements; Faculty of Arts</category>
+	<pubDate>Mon, 25 Apr 2022 12:21:00 +0100</pubDate>
+        <keyword> </keyword>
+</item>
+<item>
+	<title>Postdoctoral Research Associate in Quantitative &#8203;Anthropology</title>
+	<description>Postdoctoral Research Associate in Quantitative &#8203;Anthropology - application deadline 3rd May 2022</description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2022/postdoctoral-research-associate-in-quantitative-anthropology-.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2022/postdoctoral-research-associate-in-quantitative-anthropology-.html</guid>
+  	<category>Announcements; Faculty of Arts</category>
+	<pubDate>Wed, 13 Apr 2022 09:35:00 +0100</pubDate>
+        <keyword>anthropology and archaeology  </keyword>
+</item>
+<item>
+	<title>Book Launch: Time and Its Object</title>
+	<description></description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2022/book-launch-time-and-its-object.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2022/book-launch-time-and-its-object.html</guid>
+  	<category>Publications; Faculty of Arts</category>
+	<pubDate>Wed, 26 Jan 2022 10:32:00 +0000</pubDate>
+        <keyword> </keyword>
+</item>
+<item>
+	<title>Bristol Co-hosts Discussion Workshop on Private Museums in China</title>
+	<description></description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2021/workshop-on-private-museums-in-china.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2021/workshop-on-private-museums-in-china.html</guid>
+  	<category>Research, International, Grants and Awards; Faculty of Arts, School of Arts</category>
+	<pubDate>Tue, 11 Jan 2022 10:09:00 +0000</pubDate>
+        <keyword>archanth </keyword>
+</item>
+<item>
+	<title>New paper out in Global Public Health by Janet Howard and Mhairi Gibson</title>
+	<description></description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2021/published-paper-by-janet-howard-and-mhairi-gibson.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2021/published-paper-by-janet-howard-and-mhairi-gibson.html</guid>
+  	<category>Publications; Faculty of Arts</category>
+	<pubDate>Thu, 09 Dec 2021 15:27:00 +0000</pubDate>
+        <keyword> </keyword>
+</item>
+<item>
+	<title>The Chartered Institute for Archaeologists and University Archaeology UK have accredited the University of Bristol (BA Archaeology and Anthropology)</title>
+	<description> </description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2021/ba-archaeology-and-anthropology-accreditation-.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2021/ba-archaeology-and-anthropology-accreditation-.html</guid>
+  	<category>Announcements, Public engagement; Faculty of Arts; Press Release</category>
+	<pubDate>Thu, 09 Dec 2021 11:01:00 +0000</pubDate>
+        <keyword> </keyword>
+</item>
+<item>
+	<title>COP26 Interview</title>
+	<description> 
+ </description>
+  <enclosure url="https://www.bristol.ac.uk" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2021/cop26-interview.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2021/cop26-interview.html</guid>
+  	<category>Announcements, Public engagement; Faculty of Arts, Faculty of Arts, School of Arts, Faculty of Arts, School of Arts, Archaeology and Anthropology</category>
+	<pubDate>Tue, 09 Nov 2021 12:25:00 +0000</pubDate>
+        <keyword> </keyword>
+</item>
+<item>
+	<title>First Year Glastonbury Field trip</title>
+	<description></description>
+  <enclosure url="https://www.bristol.ac.uk/media-library/sites/archanth/images/samba workshop.jpg" type="image/jpeg" />
+	<link>https://www.bristol.ac.uk/archanth/news/2021/glastonbury-fieldtrip-2021.html</link>
+	<guid>https://www.bristol.ac.uk/archanth/news/2021/glastonbury-fieldtrip-2021.html</guid>
+  	<category>Undergraduate, Current students; Faculty of Arts, School of Arts, Archaeology and Anthropology</category>
+	<pubDate>Mon, 08 Nov 2021 15:16:00 +0000</pubDate>
+        <keyword> </keyword>
+</item>
+
+          
+</channel>
+</rss>

@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bristol.ac.uk	TRUE	/unit-programme-catalogue	FALSE	1999999999	JSESSIONID	48693181F4E1F69490075B94A648D485
+www.bristol.ac.uk	TRUE	/media/experts	FALSE	1999999999	JSESSIONID	7745CE0BD8BAC1F33530D7E3F84C127E
+www.bristol.ac.uk	TRUE	/hr/erecruit	FALSE	1999999999	JSESSIONID	BB17DC6D9A443CCB5C3FCF6EF62EE477
+www.bristol.ac.uk	TRUE	/	FALSE	1999999999	uob_ck_1	!20YgXlbqy7zT/BMUXyToefvCcLHU9HQk3+cesI8o+eOpy5BmGwMuZjcPgSEYkHKdZte8wGQ+WQ==
+www.bristol.ac.uk	TRUE	/	FALSE	1999999999	BIGipServer~UOBWeb~wwwuob.app~wwwuob	1443043756.20480.0000
+www.bristol.ac.uk	TRUE	/	FALSE	1999999999	BIGipServer~UOBWeb~wwwbristol.app~wwwbristol	3858764460.0.0000
+www.bristol.ac.uk	TRUE	/	FALSE	1999999999	INGRESSCOOKIE	1bf90ca9d486757421359721e1af237c|582491ef6a17b43b0fdcc9fca39b7583
+www.bris.ac.uk	TRUE	/	FALSE	1999999999	BIGipServer~UOBWeb~wwwbris.app~wwwbris	3892318892.0.0000
+www.bristol.ac.uk	TRUE	/	FALSE	1999999999	CANONICAL_DOMAIN	TRUE
+www.bristol.ac.uk	TRUE	/	FALSE	1999999999	mod_auth_openidc_state_UEj_AN9JYfOjGmDzx0JZa59CC1s	eyJhbGciOiAiZGlyIiwgImVuYyI6ICJBMjU2R0NNIn0..I8Q6swt8GG-Xpmm8.s7omnamlF67XjntBYIFiS3n--SibXhtJOTRQj59aguFvtzo51BB4brBlUzATiv3xfoTIAmrUQKUgrUTAUQ2_PO833wQbHQznW9xbRrYldpOPDOz9I5ce-JBWVXMUgv9f00HLOL_RzoY6eaWIw8OVIzqwxGum1QM1fPQv3tr_tVqAfSrhogwizEv3LDCpY4SV-8olK5VkDze5y29RoOZYfqm-KrJ77m6AoRVHrNGnrbfoDS5VK2Sul3dPc5W7wvc3oCbeeXDidiygqPcApBv4ogc7Dt3msYclXDD9eaiIZSLUD94D4QqyV25Sdq_wlOUIMEbjNcWOZhJZi9I3h6Q6UzHmI6e9Qdg5njEEZI9IUW4NplM8rW3TSaKbqrQPeR_kMWE0kDVhTgvfaw8i6GB8whYVvuBcQwoNZaUiIKwhQZPtGfEUAor3R7HIJCjOtreFbN9YdWXGONIbWGZ8s5wS-vWKSWb8gnLhQyUbupq2JcTCYgOs3irYxmgy.kUHCweg0Sr8IKRBu7iE8jg
+bristol.ac.uk	TRUE	/	FALSE	1999999999	uob_ck_1	!PfoulDyhibGqyF4UXyToefvCcLHU9MthE264GsGTLZdq5nj2/JJGGa1A2m6kSv4QTEc9ggb+mg==
+
